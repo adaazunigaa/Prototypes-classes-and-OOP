@@ -1,5 +1,5 @@
 class Color {
-    constructor(r, g, b, name) {
+    constructor(r, g, b, name = "color") {
         this.r = r;
         this.g = g;
         this.b = b;
