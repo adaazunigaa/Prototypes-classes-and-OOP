@@ -7,6 +7,8 @@
 -Factory Functions
 -Constructor Functions
 -JavaScript classes
+    *Define a class with the class keyword
+    *Constructors
 -extends keyword
 -super keyword
 -
